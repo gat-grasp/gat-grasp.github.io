@@ -18,8 +18,8 @@ affiliations:
     <sup>3</sup>Zhejiang University  &nbsp;&nbsp;&nbsp; * Equal contributions &nbsp;&nbsp;&nbsp;
     <sup>†</sup>Corresponding author
 paper: https://arxiv.org/abs/2503.06227
-video: https://reshinewang.github.io/GAT-GRASP/#method_video
-code: 
+video: https://gat-grasp.github.io/#method_video
+code: https://github.com/ReshineWang/GAT-Grasp
 # data: https://huggingface.co/docs/datasets
 ---
 
